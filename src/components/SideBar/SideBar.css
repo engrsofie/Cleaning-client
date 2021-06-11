@@ -1,0 +1,16 @@
+.sidebar {
+  background-color: black;  
+  height: 100vh !important;
+ 
+}
+.sidebar-link{
+  color: white !important;
+  text-decoration: none !important;
+  margin-bottom: 15px;
+  
+}
+.sidebar ul li{
+  margin-bottom: 20px;
+  cursor: pointer !important;
+}
+
