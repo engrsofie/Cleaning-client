@@ -48,9 +48,8 @@ Stripe
 
 Testimonial
 
+Client-side repo : https://github.com/engrsofie/Cleaning-client
 
-Client-side repo : https://github.com/Porgramming-Hero-web-course/complete-website-client-engrsofie 
-
-Server-side: https://github.com/Porgramming-Hero-web-course/complete-website-server-engrsofie 
+Server-side: https://github.com/engrsofie/Cleaning-server
 
 Live-Link: https://cleanerservice-36bef.web.app/
